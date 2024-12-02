@@ -1,0 +1,1 @@
+Nukki 폴더 안 nukki.py 
